@@ -10,7 +10,7 @@ function nominas(){
 
         var total = nomina *1.10
 
-        alert("Su sueldo al final es este "+total+"€")
+        alert("Su sueldo al final es este "+total+ "€")
 
     }else if(nomina>=750 & antiguedad>=10){
 
