@@ -11,12 +11,12 @@ function Eje(){
    do{
 
        var op = Number(prompt(
-           "MENU DE FIGURAS GEOMETRICAS\n"
+           "MENU\n"
            + "1. Elegir figura\n"
            + "2. Introducir medidas\n"
            + "3. Mostrar volumen\n"
            + "4. Mostrar área\n"
-           + "5. Finalizar programa\n\n"
+           + "5. Finalizar programa\n"
            + "Elige una opcion:"
        ));
 
@@ -89,8 +89,6 @@ function Eje(){
                break;
 
            case 3 :
-
-
 
                if(figura==""){
 
